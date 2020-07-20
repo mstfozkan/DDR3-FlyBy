@@ -1,0 +1,14 @@
+# DDR3-Topologies
+Purpose of that repo routing and simulating of DDR3 topologies.
+Im not experienced person about those topics but improved myself about it. 
+I was planned to make comparision between FLYBY and TBranch topologies. 
+Then i giveup TBranch because of decrease of usage.
+
+DDR3 & FPGA demo with Xpedition.
+Chips I used in project:
+XC7Z020-2CLG484I and two MT41K128M16JT-125.
+Topology:
+I used flyby topology which is recommended.
+I used formulas for routing.
+I will share SI result of demo
+
