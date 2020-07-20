@@ -1,0 +1,326 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Thursday, August 09, 2012 11:54 AM"
+
+.BaseUnits "1NM"
+
+.GerberOutputDir "Output\\Gerber"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.GenerateMacro Yes 
+
+.VariantsOutput No 
+.DCodeToApertureFile "Sys: GerberD-Codes.dac"
+.GerberMachineFormatFile "Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "top.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\top.gdo"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "sst.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\sst.gdo"
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Top
+   ...CellItemsLayer 1
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Fab_Film"
+ ..UserLayer "Silkscreen_Top"
+
+.GerberOutputFile "ssb.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\ssb.gdo"
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 0
+   ...CellItem SilkscreenOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "spt.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\spt.gdo"
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem SolderpasteTop
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "spb.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\spb.gdo"
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem SolderpasteBottom
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "smt.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\smt.gdo"
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem SoldermaskTop
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "smb.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\smb.gdo"
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem SoldermaskBottom
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "l3_inner.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\l3_inner.gdo"
+ ..ConductiveLayer 3
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "l2_inner.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\l2_inner.gdo"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads No
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "detail3.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\detail3.gdo"
+ ..UserLayer "Fab_TitleBlock3MP"
+ ..UserLayer "Fab_TitleDataMP"
+
+.GerberOutputFile "detail2.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\detail2.gdo"
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem DrillDrawingThru
+ ..UserLayer "Fab_Dimensions"
+ ..UserLayer "Fab_TitleBlock2"
+ ..UserLayer "Fab_TitleData2"
+
+.GerberOutputFile "detail1.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\detail1.gdo"
+ ..UserLayer "Fab_Notes"
+ ..UserLayer "Fab_TitleBlock1"
+
+.GerberOutputFile "bottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\bottom.gdo"
+ ..ConductiveLayer 4
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "assy_t.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\assy_t.gdo"
+ ..ConductiveLayer 1
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem MountingHoles
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Top
+   ...CellItemsLayer 1
+   ...CellItem AssemblyOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Assy_Top"
+ ..UserLayer "Fab_Film"
+
+.GerberOutputFile "assy_b.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\assy_b.gdo"
+ ..ConductiveLayer 4
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..ContourLayerList ""
+   ...ContourLayerName "Through Board"
+ ..BoardItem MountingHoles
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 0
+   ...CellItem AssemblyOutline
+   ...CellItem SilkscreenReferenceDesignator
+ ..UserLayer "Assy_Bottom"
+ ..UserLayer "Fab_Film"
+.SchemeChanged No 
+.Scheme "PlotSetup4"
+.SchemeLocation "Local"

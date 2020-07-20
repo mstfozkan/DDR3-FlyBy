@@ -1,0 +1,193 @@
+.FILETYPE PDFSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB PDF Output"
+.DATE "Friday, March 21, 2008 01:25 PM"
+
+.BaseUnits "1NM"
+
+.PageNumbering No
+.EmbedFont Yes
+.LaunchReader Yes
+.BlackAndWhite No
+.FitDrawing No
+
+
+.SheetName "Sheet1"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 1
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet6"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet2"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet3"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet4"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline
+
+.SheetName "Sheet5"
+ ..ProcessSheet Yes
+ ..PageSize None
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer Yes
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+ ..BoardItem BoardOutline

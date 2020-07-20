@@ -1,0 +1,9 @@
+.FILETYPE NC_DRILL_GEN_FILE
+.VERSION "VB99.0"
+.DATE "Wednesday, January 02, 2002"
+
+.FormatFile "D:\\Mentor\\2000.5\\VBExpPCB\\config\\VBExpPCB\\NCDrillEnglish.mmm"
+.SweepAxis Horizontal
+.SummaryUnits English
+.Bandwidth 2540000
+.MachineFileExt  ".ncd"

@@ -1,0 +1,19 @@
+.FILETYPE SILKSCREEN_GENERATOR_DEFINITION
+.VERSION "VB99.0"
+.DATE "Friday, June 18, 1999"
+
+.ProcessSide Both
+.ProcessSideTop
+ ..SilkRefDes
+ ..SilkOutline
+.ProcessSideBottom
+ ..SilkRefDes
+ ..SilkOutline
+.ProcessAllPkgGroups
+.BreakUsing ConductivePads
+.BreakGraphicsPad 1, 152400
+.BreakGraphicsVia 0, 0
+.BreakTextPad 1, 152400
+.BreakTextVia 0, 0
+.BreakTextWidth 152400
+.BreakGraphicsWidth 152400

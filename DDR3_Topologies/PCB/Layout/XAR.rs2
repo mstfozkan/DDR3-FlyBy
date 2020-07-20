@@ -1,0 +1,45 @@
+# Number of passes
+6
+# Pass:  0
+1 5 1 3 -1 -1 0 0 6 0 0 0 -1 1 Board
+# Pass 0 layer info
+0
+# Pass 0 net filter info
+1 (Net0)
+# Pass 0 has no via limit info
+
+# Pass:  1
+2 0 1 2 -1 -1 0 0 -1 0 0 0 -1 0 Board
+# Pass 1 layer info
+0
+# Pass 1 has no filter info
+# Pass 1 has no via limit info
+
+# Pass:  2
+3 0 1 4 -1 -1 0 0 -1 0 0 0 -1 0 Board
+# Pass 2 layer info
+0
+# Pass 2 has no filter info
+# Pass 2 has no via limit info
+
+# Pass:  3
+5 0 1 1 -1 -1 0 0 -1 0 0 0 -1 0 Board
+# Pass 3 layer info
+0
+# Pass 3 has no filter info
+# Pass 3 has no via limit info
+
+# Pass:  4
+3 0 5 5 -1 -1 0 0 -1 0 0 0 -1 0 Board
+# Pass 4 layer info
+0
+# Pass 4 has no filter info
+# Pass 4 has no via limit info
+
+# Pass:  5
+5 0 2 2 -1 -1 0 0 -1 0 0 0 -1 0 Board
+# Pass 5 layer info
+0
+# Pass 5 has no filter info
+# Pass 5 has no via limit info
+

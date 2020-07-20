@@ -1,0 +1,283 @@
+.FILETYPE PDFSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB PDF Output"
+.DATE "Tuesday, July 22, 2008 02:03 PM"
+
+.BaseUnits "1NM"
+
+.PageNumbering No
+.EmbedFont Yes
+.LaunchReader Yes
+.BlackAndWhite Yes
+.FitDrawing No
+.PDFFileName "Output\\PDF\\Template_4Layer.pdf"
+
+
+.SheetName "Fab-Sheet1"
+ ..ProcessSheet Yes
+ ..PageSize B5
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+
+ ..ConductiveLayer 7
+   ...ProcessLayer No
+
+ ..ConductiveLayer 8
+   ...ProcessLayer No
+
+ ..ConductiveLayer 9
+   ...ProcessLayer No
+
+ ..ConductiveLayer 10
+   ...ProcessLayer No
+
+ ..ConductiveLayer 11
+   ...ProcessLayer No
+
+ ..ConductiveLayer 12
+   ...ProcessLayer No
+
+ ..ConductiveLayer 13
+   ...ProcessLayer No
+
+ ..ConductiveLayer 14
+   ...ProcessLayer No
+
+ ..ConductiveLayer 15
+   ...ProcessLayer No
+
+ ..ConductiveLayer 16
+   ...ProcessLayer No
+
+ ..ConductiveLayer 17
+   ...ProcessLayer No
+
+ ..ConductiveLayer 18
+   ...ProcessLayer No
+
+ ..ConductiveLayer 19
+   ...ProcessLayer No
+
+ ..ConductiveLayer 20
+   ...ProcessLayer No
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Fab_Notes"
+ ..UserLayer "Fab_TitleBlock1"
+ ..UserLayer "Fab_TitleData1"
+ ..UserLayer "Preliminary_Note"
+
+.SheetName "Fab-Sheet2"
+ ..ProcessSheet Yes
+ ..PageSize B5
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+
+ ..ConductiveLayer 7
+   ...ProcessLayer No
+
+ ..ConductiveLayer 8
+   ...ProcessLayer No
+ ..BoardItem BoardOutline
+ ..BoardItem Contours
+ ..BoardItem DrillDrawingThru
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Fab_Dimensions"
+ ..UserLayer "Fab_TitleBlock2"
+ ..UserLayer "Fab_TitleData2"
+ ..UserLayer "Preliminary_Note"
+
+.SheetName "Fab-Sheet3"
+ ..ProcessSheet Yes
+ ..PageSize B5
+ ..Orientation BestFit
+ ..ScaleFactor 1.000000
+ ..CurrentView No
+
+ ..ConductiveLayer 2
+   ...ProcessLayer No
+   ...ConductiveItem ActualPlaneShapes
+   ...ConductiveItem Thieving
+   ...ConductiveItem EmbeddedCapPads
+   ...ConductiveItem EmbeddedResPads
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem PlaneNoConnect
+   ...ConductiveItem PlaneObstruct
+   ...ConductiveItem PlaneShape
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem RouteObstruct
+   ...ConductiveItem RuleArea
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaHoles
+   ...ConductiveItem ViaPads
+
+ ..ConductiveLayer 1
+   ...ProcessLayer No
+
+ ..ConductiveLayer 3
+   ...ProcessLayer No
+
+ ..ConductiveLayer 4
+   ...ProcessLayer No
+
+ ..ConductiveLayer 5
+   ...ProcessLayer No
+
+ ..ConductiveLayer 6
+   ...ProcessLayer No
+
+ ..ConductiveLayer 7
+   ...ProcessLayer No
+
+ ..ConductiveLayer 8
+   ...ProcessLayer No
+ ..BoardCellType Buried
+ ..BoardCellType Connector
+ ..BoardCellType DiscreteAxial
+ ..BoardCellType DiscreteChip
+ ..BoardCellType DiscreteOther
+ ..BoardCellType DiscreteRadial
+ ..BoardCellType EdgeConnector
+ ..BoardCellType EmbeddedPassive
+ ..BoardCellType General
+ ..BoardCellType Graphic
+ ..BoardCellType ICBareDie
+ ..BoardCellType ICBGA
+ ..BoardCellType ICDIP
+ ..BoardCellType ICFlipChip
+ ..BoardCellType ICLCC
+ ..BoardCellType ICOther
+ ..BoardCellType ICPGA
+ ..BoardCellType ICPLCC
+ ..BoardCellType ICSIP
+ ..BoardCellType ICSOIC
+ ..BoardCellType Jumper
+ ..BoardCellType Mechanical
+ ..BoardCellType TestPoint
+ ..UserLayer "Fab_TitleBlock3MP"
+ ..UserLayer "Fab_TitleData3MP"
+ ..UserLayer "Preliminary_Note"

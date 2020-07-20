@@ -1,0 +1,18 @@
+.FILETYPE NC_DRILL_CHART_FILE
+.VERSION "VB99.0"
+.DATE "Wednesday, January 02, 2002"
+
+.Columns 
+ ..Symbol
+ ..Diameter
+ ..Tolerance
+ ..Plated
+ ..Quantity
+.FontName "vf_std"
+.FontSize 3175000
+.LineSpacing 5080000
+.PenWidth 76200
+.Format1 1
+.Format2 4
+.NegTol 76200
+.PosTol 76200

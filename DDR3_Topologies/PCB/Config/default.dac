@@ -1,0 +1,29 @@
+.FILETYPE DCodeToApertureFile
+.VERSION "VB99.0"
+.CREATOR "VeriBest PCB VB98Gerber2HKP Translator"
+.DATE "Tuesday, September 15, 1998 07:41 AM"
+
+
+.Span
+ ..Aperture 1 10
+ ..DCode 10 19
+
+.Span
+ ..Aperture 11 12
+ ..DCode 70 71
+
+.Span
+ ..Aperture 13 22
+ ..DCode 20 29
+
+.Span
+ ..Aperture 23 24
+ ..DCode 72 73
+
+.Span
+ ..Aperture 25 64
+ ..DCode 30 69
+
+.Span
+ ..Aperture 65 990
+ ..DCode 74 999

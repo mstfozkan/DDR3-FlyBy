@@ -1,0 +1,45 @@
+SECTION ICXProInfo
+KEY HighSpeedPathsVersion "1"
+KEY IBISModelMgrDir "./HighSpeed/ICXPro/Model_Manager"
+KEY ICXProDir "./HighSpeed/ICXPro"
+KEY PostLayoutExplorerDir "./HighSpeed/ICXPro/PostLayoutExplorer"
+KEY PostLayoutLineSim "./HighSpeed/HyperLynx/PostLayoutLineSim"
+KEY SimTemplatesDir "./HighSpeed/ICXPro/Simulation_Templates"
+KEY VerifyDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY VerifyResultsDir "./HighSpeed/ICXPro/Verify/DataBases"
+KEY VerifySandBoxDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+ENDSECTION
+SECTION IngrElecLibraries
+KEY CentralLibrary "../../../Library.lmc"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION ProjectBackup
+KEY ConfigFile ".\ProjectBackup\ProjectBackup.cfg"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY VBPCBDesignPath "template.pcb"
+KEY VBPCBForeignNetlist "NetList.kyn"
+KEY VBPCBForeignNetlistFormat ".kyn"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY AllowAlpha "0"
+KEY CADBackAnno "1"
+KEY DisableBackAnnoChanges "0"
+KEY FLATNETNAMEs "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoCleanBuildFlag "1"
+KEY FwdAnnoExtractFlag "0"
+KEY FwdAnnoRebuildFlag "0"
+KEY FwdAnnoRemoveHangers "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoSchematicRefDesChanges "0"
+KEY LayoutTemplate ""
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY UnusedPartsFlag "1"
+KEY UseCES "1"
+KEY VBPCBForwardAnno "0"
+ENDSECTION

@@ -1,0 +1,11 @@
+.FILETYPE LAYER_STACKUP_SETTINGS
+.VERSION "VX2.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Monday January 13 00:07:46 2020"
+
+.LayerStackup
+  ..FontName    "Bahnschrift SemiLight"
+  ..FontSize     2000000
+  ..PenWidth 2000000
+  ..IncludeMaster 1
+  ..MultipleUserLayers 0
