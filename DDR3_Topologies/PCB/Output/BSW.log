@@ -1,0 +1,5 @@
+2020-01-05 05:18:14 3356  [WARNING] Warning: One or more nets are completely unrouted.  Do you want to connect them using "virtual", Manhattan-style routing?  (Does not apply to power-supply nets.)  Note: This process will begin by determining the detailed routing status of every net on the board, which can be very time-consuming (especially if some power-supply nets are mistakenly identified as signal nets).  If you prefer to skip this process now, you can run it later using Edit > Connect Nets with Manhattan Routing. - The "No" button was selected
+2020-01-05 05:18:26 3356     [INFO] Opening Design: T-Branch.cce
+2020-01-05 05:18:36 3356     [INFO] Close HyperLynx Session: Design file: T-Branch.cce Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2020-01-05 05:18:40 3356     [INFO] Closing Design: T-Branch.cce
+2020-01-05 05:18:42 3356     [INFO] ****** Closing HyperLynx 

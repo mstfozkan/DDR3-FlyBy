@@ -1,0 +1,165 @@
+
+                                    Packager
+                                    --------
+
+                       06:01 PM Sunday, February 16, 2020
+Job Name: C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\DDR3_Topologies.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: ""C:\MentorGraphics\EEVX.2.6\SDD_HOME\wg\win64\bin\package.exe"  -jC:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\DDR3_Topologies.prj -nFly-By -CleanBuild -NoFill"
+
+     The Common Database is at "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\database".
+
+     The Root of this design is "Fly-BY".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\FlyBy.pcb".
+
+     The Central Library is at "C:\Users\mstfo\Desktop\Xpedition_Proje\XENTP Library\Xpedition_XENTP.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Maximum Latency"
+       "Action_Hyperlink"
+       "Refinement Parent"
+       "Refinement Group"
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Model"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "Power"
+       "Drawing Project"
+       "Drawing Number Vertical"
+       "Variant Number"
+       "Datasheet"
+       "Variant Description"
+       "Variant Name"
+       "Drawing_PDF_Number"
+       "Voltage"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 16
+          Part Numb: CAP-0402-X5R-47nF-10V-10% -> Vend Part: CAP-0402-X5R-47nF-10V-10% 
+          Part Numb: CAP-0402-X5R-100nF-10V-10% -> Vend Part: CAP-0402-X5R-100nF-10V-10% 
+          Part Numb: CAP-0402-X5R-470nF-10V-10% -> Vend Part: CAP-0402-X5R-470nF-10V-10% 
+          Part Numb: CAP-0402-X7R-10nF-16V-10% -> Vend Part: CAP-0402-X7R-10nF-16V-10% 
+          Part Numb: CAP-0603-X5R-1uF-6V3-10% -> Vend Part: CAP-0603-X5R-1uF-6V3-10% 
+          Part Numb: CAP-0805-X5R-2u2-6V3-10% -> Vend Part: CAP-0805-X5R-2u2-6V3-10% 
+          Part Numb: CAP-1206-X5R-4u7-6V3-10% -> Vend Part: CAP-1206-X5R-4u7-6V3-10% 
+          Part Numb: CAP-1206-X5R-10uF-6V3-10% -> Vend Part: CAP-1206-X5R-10uF-6V3-10% 
+          Part Numb: CAP-1206-X5R-100uF-6V3-10% -> Vend Part: CAP-1206-X5R-100uF-6V3-10% 
+          Part Numb: IND-0603-FBEAD -> Vend Part: IND-0603-FBEAD 
+          Part Numb: MT41K128M16JT-125 -> Vend Part: MT41K128M16JT-125 
+          Part Numb: RES-0402-4K7-1% -> Vend Part: RES-0402-4K7-1% 
+          Part Numb: RES-0402-39R-1% -> Vend Part: RES-0402-39R-1% 
+          Part Numb: RES-0402-80R-1% -> Vend Part: RES-0402-80R-1% 
+          Part Numb: RES-0402-240R-1% -> Vend Part: RES-0402-240R-1% 
+          Part Numb: XC7Z020-2CLG484I -> Vend Part: XC7Z020-2CLG484I 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 144 Symbols:
+             144  *******************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     83 nets were found containing 620 pins
+     136 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

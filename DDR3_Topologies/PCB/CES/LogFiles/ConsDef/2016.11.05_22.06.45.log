@@ -1,0 +1,668 @@
+Sat Nov 05 22:06:45 2016
+
+Project path: C:\Users\mstfo\Desktop\Xpedition_Proje\XENTP Library\Templates\Layout\VX Template_4Layer_Formatted\keyin.icdb
+
+Env. WDIR: C:\WDIR\EEVX.2;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	C:\WDIR\EEVX.2
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\WDIR\EEVX.2\user.cns=0d00-e61e-4c8b-3b18-3b11-cf78-b11c-f750-119c-abfa-ccfb-2bb5
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: C:\WDIR\EEVX.2\user.cns=0d00-e61e-4c8b-3b18-3b11-cf78-b11c-f750-119c-abfa-ccfb-2bb5;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.35 to version: 7.10.56
+
+Constraints definition "ADHCC" added (default value: 0).
+Constraints definition "ALHCC" added (default value: 0).
+Constraints definition "APUHCC" added (default value: 0).
+Constraints definition "APHHCC" added (default value: 0).
+Constraints definition "DSN_SURFACE_ROUGHNESS_ENABLED" added (default value: 0).
+Constraints definition "DSN_SURFACE_ROUGHNESS_PARAM" added (default value: RMS).
+Constraints definition "DSN_TRAPEZOIDAL_TRACE_SHAPES_ENABLED" added (default value: 0).
+Constraints definition "DSN_AUTO_CALCULATE_ER" added.
+Constraints definition "BONDPAD_TO_BONDPAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_BONDPAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BONDPAD_TO_TRACE" added (default value: 254000).
+Constraints definition "BONDPAD_TO_TRACE" will be migrated based on SMDPAD_TO_TRACE.
+Constraints definition "BONDPAD_TO_PAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_PAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BONDPAD_TO_VIA" added (default value: 254000).
+Constraints definition "BONDPAD_TO_VIA" will be migrated based on SMDPAD_TO_VIA.
+Constraints definition "BONDPAD_TO_PLANE" added (default value: 254000).
+Constraints definition "BONDPAD_TO_PLANE" will be migrated based on PAD_TO_PLANE.
+Constraints definition "BONDPAD_TO_SMDPAD" added (default value: 254000).
+Constraints definition "BONDPAD_TO_SMDPAD" will be migrated based on PAD_TO_PAD.
+Constraints definition "BACKDRILL" added (default value: FALSE).
+Constraints definition "ATTACHED_DIELECTRIC" added (default value: None).
+Constraints definition "LAYER_PROCESS" added.
+Constraints definition "LAYER_TREATED_SIDE" added.
+Constraints definition "LAYER_NARROW_SIDE" added.
+Constraints definition "LAYER_ROUGHNESS_TOP" added.
+Constraints definition "LAYER_ROUGHNESS_BOTTOM" added.
+Constraints definition "LAYER_ETCH_FACTOR" added.
+BeforeGlobalUpgrade took 4ms, 0s
+
+Upgrade snapshot DxD
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_2" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_2" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_2" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_2" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_3" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_3" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_3" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_3" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-430-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-436-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-437-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-449-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-455-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-456-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-468-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-474-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-475-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-487-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-493-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-494-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-503-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-505-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-506-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-514-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-516-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-517-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-525-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-527-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-528-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-536-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-538-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-539-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-615-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-621-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-622-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-634-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-640-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-641-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-653-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-659-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-660-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-672-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-678-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-679-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-691-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-697-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-698-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-710-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-716-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-717-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-729-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-735-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-736-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-748-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-754-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-755-22) - old value: 254000.000000000000000, new value: 203200.
+UpgradeSnapshot took 23ms, 0s
+
+Upgrade snapshot template_layout_temp
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_2" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_2" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_2" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_2" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_3" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_3" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_3" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_3" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-430-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-436-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-437-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-449-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-455-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-456-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-468-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-474-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-475-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-487-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-493-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-494-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-503-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-505-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-506-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-514-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-516-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-517-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-525-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-527-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-528-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-536-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-538-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-539-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-615-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-621-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-622-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-634-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-640-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-641-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-653-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-659-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-660-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-672-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-678-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-679-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-691-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-697-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-698-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-710-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-716-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-717-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-729-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-735-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-736-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-748-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-754-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-755-22) - old value: 254000.000000000000000, new value: 203200.
+UpgradeSnapshot took 20ms, 0s
+
+Upgrade snapshot template
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_2" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_2" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_2" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_2" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_3" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_3" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_3" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_3" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-430-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-436-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-437-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-449-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-455-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-456-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-468-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-474-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-475-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-487-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-493-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-494-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-503-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-505-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-506-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-514-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-516-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-517-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-525-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-527-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-528-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-536-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-538-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-539-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-615-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-621-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-622-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-634-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-640-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-641-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-653-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-659-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-660-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-672-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-678-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-679-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-691-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-697-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-698-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-710-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-716-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-717-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-729-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-735-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-736-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-748-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-754-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-755-22) - old value: 254000.000000000000000, new value: 203200.
+UpgradeSnapshot took 19ms, 0s
+
+Upgrade snapshot PCB
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_2" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_2" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_2" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_2" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_3" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_3" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_3" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_3" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-430-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-436-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-437-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-449-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-455-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-456-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-468-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-474-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-475-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-487-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-493-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-494-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-503-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-505-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-506-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-514-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-516-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-517-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-525-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-527-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-528-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-536-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-538-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-539-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-615-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-621-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-622-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-634-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-640-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-641-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-653-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-659-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-660-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-672-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-678-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-679-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-691-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-697-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-698-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-710-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-716-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-717-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-729-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-735-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-736-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-748-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-754-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-755-22) - old value: 254000.000000000000000, new value: 203200.
+UpgradeSnapshot took 19ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_1" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_1" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_1" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_1" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_1" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_2" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_2" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_2" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_2" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_2" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_3" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_3" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_3" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_3" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_3" with default value "Top".
+Constraint "LAYER_PROCESS" was added on layer "SIGNAL_4" with default value "Electrodeposit".
+Constraint "LAYER_TREATED_SIDE" was added on layer "SIGNAL_4" with default value "None".
+Constraint "LAYER_ROUGHNESS_TOP" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ROUGHNESS_BOTTOM" was added on layer "SIGNAL_4" with default value "381".
+Constraint "LAYER_ETCH_FACTOR" was added on layer "SIGNAL_4" with default value "0.741".
+Constraint "LAYER_NARROW_SIDE" was added on layer "SIGNAL_4" with default value "Top".
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-430-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-429-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-436-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-437-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-449-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-448-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-455-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-456-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-468-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-467-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-474-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-475-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-487-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-486-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-493-22) - old value: 254000.000000000000000, new value: 127000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-494-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-503-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-502-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-505-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-506-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-514-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-513-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-516-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-517-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-525-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-524-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-527-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-528-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-536-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-535-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-538-22) - old value: 254000.000000000000000, new value: 127000.000000000000000.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-539-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-615-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-614-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-621-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-622-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-634-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-633-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-640-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-641-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-653-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-652-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-659-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-660-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-672-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-671-22) - old value: 254000.000000000000000, new value: 152400.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-678-22) - old value: 254000.000000000000000, new value: 101600.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-679-22) - old value: 254000.000000000000000, new value: 152400.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-691-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-690-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-697-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-698-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-710-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-709-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-716-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-717-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-729-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-728-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-735-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-736-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_BONDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_PLANE migrated from constraint PAD_TO_PLANE (uid: 3-748-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_SMDPAD migrated from constraint PAD_TO_PAD (uid: 3-747-22) - old value: 254000.000000000000000, new value: 203200.000000000000000.
+Constraint BONDPAD_TO_TRACE migrated from constraint SMDPAD_TO_TRACE (uid: 3-754-22) - old value: 254000.000000000000000, new value: 203200.
+Constraint BONDPAD_TO_VIA migrated from constraint SMDPAD_TO_VIA (uid: 3-755-22) - old value: 254000.000000000000000, new value: 203200.
+UpgradeSnapshot took 19ms, 0s
+
+After global upgrade
+Constraints definition "POUR_DRAW_STYLE" default value set to: None.
+Constraints definition "CUSTOM_DESCRIPTION" deleted.
+Constraints definition "CUSTOM_VALUE" deleted.
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=0d00-e61e-4c8b-3b18-3b11-cf78-b11c-f750-119c-abfa-ccfb-2bb5
+AfterGlobalUpgrade took 1ms, 0s
+

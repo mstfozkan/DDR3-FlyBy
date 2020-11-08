@@ -1,0 +1,142 @@
+Off grid report
+    Off grid nets
+        Net $4N4474 is not snapped to grid 
+        Net $4N4475 is not snapped to grid 
+        Net $4N4476 is not snapped to grid 
+        Net $4N4477 is not snapped to grid 
+        Net $4N4478 is not snapped to grid 
+        Net $4N4485 is not snapped to grid 
+        Net $4N4486 is not snapped to grid 
+        Net $4N4487 is not snapped to grid 
+        Net $4N4488 is not snapped to grid 
+        Net $4N4489 is not snapped to grid 
+
+    Off grid pins
+        Pin(s): PIN0 of component $4I4458 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4459 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4460 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4461 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4462 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4463 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4464 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4465 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4466 is(are) not snapped to grid 
+        Pin(s): PIN0 of component $4I4467 is(are) not snapped to grid 
+
+
+Overlapping objects report
+    Net/Wire overlap
+        No issues found
+
+
+Text report
+    Text alignment
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C67 of $2I1394 are not aligned 
+        Text: Ref Designator=C68, Package=0603, Value=470nF, Voltage=6V3 of $2I1396 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C69 of $2I1397 are not aligned 
+        Text: Ref Designator=C70, Package=0603, Value=470nF, Voltage=6V3 of $2I1399 are not aligned 
+        Text: Ref Designator=C90, Value=10uF, Package=1206, Voltage=6V3 of $2I1400 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C71 of $2I1403 are not aligned 
+        Text: Ref Designator=C72, Package=0603, Value=470nF, Voltage=6V3 of $2I1404 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C73 of $2I1405 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C74 of $2I1407 are not aligned 
+        Text: Ref Designator=C85, Value=4U7, Voltage=6V3, Package=1206 of $2I1933 are not aligned 
+        Text: Package=1206, Voltage=6V3, Value=4U7, Ref Designator=C86 of $2I1943 are not aligned 
+        Text: Ref Designator=C83, Value=100uF, Package=1206, Voltage=6V3 of $2I1953 are not aligned 
+        Text: Ref Designator=C75, Package=0603, Value=470nF, Voltage=6V3 of $2I1979 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C76 of $2I1989 are not aligned 
+        Text: Ref Designator=C77, Package=0603, Value=470nF, Voltage=6V3 of $2I1999 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C78 of $2I2009 are not aligned 
+        Text: Package=1206, Voltage=6V3, Value=4U7, Ref Designator=C87 of $2I2019 are not aligned 
+        Text: Ref Designator=C88, Value=4U7, Voltage=6V3, Package=1206 of $2I2029 are not aligned 
+        Text: Voltage=6V3, Package=1206, Value=100uF, Ref Designator=C84 of $2I2039 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C79 of $2I2049 are not aligned 
+        Text: Ref Designator=C80, Package=0603, Value=470nF, Voltage=6V3 of $2I2050 are not aligned 
+        Text: Voltage=6V3, Value=470nF, Package=0603, Ref Designator=C81 of $2I2069 are not aligned 
+        Text: Ref Designator=C82, Package=0603, Value=470nF, Voltage=6V3 of $2I2070 are not aligned 
+        Text: Ref Designator=C89, Value=4U7, Voltage=6V3, Package=1206 of $2I2071 are not aligned 
+        Text: Ref Designator=U1, Part Number=XC7Z020-2CLG484I of $2I985 are not aligned 
+        Text: Part Number=XC7Z020-2CLG484I, Ref Designator=U1 of $3I1245 are not aligned 
+        Text: Ref Designator=C1, Value=10nF, Voltage=16V, Package=0402 of $3I1351 are not aligned 
+        Text: Ref Designator=C3, Value=47nF, Voltage=10V, Package=0402 of $3I1398 are not aligned 
+        Text: Ref Designator=C4, Value=47nF, Voltage=10V, Package=0402 of $3I1408 are not aligned 
+        Text: Ref Designator=C5, Value=47nF, Voltage=10V, Package=0402 of $3I1428 are not aligned 
+        Text: Ref Designator=C6, Value=47nF, Voltage=10V, Package=0402 of $3I1438 are not aligned 
+        Text: Ref Designator=C7, Value=47nF, Voltage=10V, Package=0402 of $3I1448 are not aligned 
+        Text: Ref Designator=C8, Value=47nF, Voltage=10V, Package=0402 of $3I1458 are not aligned 
+        Text: Ref Designator=C9, Value=47nF, Voltage=10V, Package=0402 of $3I1468 are not aligned 
+        Text: Ref Designator=C10, Value=47nF, Voltage=10V, Package=0402 of $3I1478 are not aligned 
+        Text: Ref Designator=C11, Value=47nF, Voltage=10V, Package=0402 of $3I1488 are not aligned 
+        Text: Ref Designator=C12, Value=47nF, Voltage=10V, Package=0402 of $3I1498 are not aligned 
+        Text: Ref Designator=C13, Value=47nF, Voltage=10V, Package=0402 of $3I1508 are not aligned 
+        Text: Ref Designator=C14, Value=47nF, Voltage=10V, Package=0402 of $3I1518 are not aligned 
+        Text: Ref Designator=C15, Value=47nF, Voltage=10V, Package=0402 of $3I1528 are not aligned 
+        Text: Ref Designator=C16, Value=47nF, Voltage=10V, Package=0402 of $3I1538 are not aligned 
+        Text: Ref Designator=C17, Value=47nF, Voltage=10V, Package=0402 of $3I1548 are not aligned 
+        Text: Ref Designator=C18, Value=47nF, Voltage=10V, Package=0402 of $3I1568 are not aligned 
+        Text: Ref Designator=C19, Value=47nF, Voltage=10V, Package=0402 of $3I1578 are not aligned 
+        Text: Ref Designator=C20, Value=47nF, Voltage=10V, Package=0402 of $3I1588 are not aligned 
+        Text: Voltage=16V, Package=0402, Value=10nF, Ref Designator=C2 of $3I1692 are not aligned 
+        Text: Voltage=10V, Ref Designator=C27, Value=47nF, Package=0402 of $4I3635 are not aligned 
+        Text: Value=47nF, Voltage=10V, Package=0402, Ref Designator=C28 of $4I3636 are not aligned 
+        Text: Ref Designator=C29, Package=0402, Value=47nF, Voltage=10V of $4I3637 are not aligned 
+        Text: Package=0402, Value=47nF, Ref Designator=C30, Voltage=10V of $4I3638 are not aligned 
+        Text: Value=47nF, Voltage=10V, Ref Designator=C31, Package=0402 of $4I3639 are not aligned 
+        Text: Package=0402, Value=47nF, Ref Designator=C32, Voltage=10V of $4I3640 are not aligned 
+        Text: Value=47nF, Package=0402, Ref Designator=C33, Voltage=10V of $4I3641 are not aligned 
+        Text: Ref Designator=C34, Voltage=10V, Value=47nF, Package=0402 of $4I3642 are not aligned 
+        Text: Voltage=10V, Value=47nF, Ref Designator=C35, Package=0402 of $4I3643 are not aligned 
+        Text: Value=47nF, Voltage=10V, Package=0402, Ref Designator=C36 of $4I3644 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C37 of $4I3645 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C38 of $4I3646 are not aligned 
+        Text: Package=0402, Voltage=10V, Value=47nF, Ref Designator=C39 of $4I3647 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C40 of $4I3648 are not aligned 
+        Text: Value=47nF, Package=0402, Ref Designator=C41, Voltage=10V of $4I3649 are not aligned 
+        Text: Voltage=10V, Ref Designator=C42, Package=0402, Value=47nF of $4I3650 are not aligned 
+        Text: Value=47nF, Ref Designator=C43, Voltage=10V, Package=0402 of $4I3651 are not aligned 
+        Text: Ref Designator=C61, Value=470nF, Package=0603, Voltage=6V3 of $4I3655 are not aligned 
+        Text: Ref Designator=C62, Package=0603, Value=470nF, Voltage=6V3 of $4I3656 are not aligned 
+        Text: Voltage=10V, Ref Designator=C44, Value=47nF, Package=0402 of $4I3845 are not aligned 
+        Text: Value=47nF, Voltage=10V, Package=0402, Ref Designator=C45 of $4I3846 are not aligned 
+        Text: Ref Designator=C46, Package=0402, Value=47nF, Voltage=10V of $4I3847 are not aligned 
+        Text: Package=0402, Value=47nF, Ref Designator=C47, Voltage=10V of $4I3848 are not aligned 
+        Text: Value=47nF, Voltage=10V, Ref Designator=C48, Package=0402 of $4I3849 are not aligned 
+        Text: Package=0402, Value=47nF, Ref Designator=C49, Voltage=10V of $4I3850 are not aligned 
+        Text: Value=47nF, Package=0402, Ref Designator=C50, Voltage=10V of $4I3851 are not aligned 
+        Text: Ref Designator=C51, Voltage=10V, Value=47nF, Package=0402 of $4I3852 are not aligned 
+        Text: Voltage=10V, Value=47nF, Ref Designator=C52, Package=0402 of $4I3853 are not aligned 
+        Text: Value=47nF, Voltage=10V, Package=0402, Ref Designator=C53 of $4I3854 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C54 of $4I3855 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C55 of $4I3856 are not aligned 
+        Text: Package=0402, Voltage=10V, Value=47nF, Ref Designator=C56 of $4I3857 are not aligned 
+        Text: Package=0402, Value=47nF, Voltage=10V, Ref Designator=C57 of $4I3858 are not aligned 
+        Text: Value=47nF, Package=0402, Ref Designator=C58, Voltage=10V of $4I3859 are not aligned 
+        Text: Voltage=10V, Ref Designator=C59, Package=0402, Value=47nF of $4I3860 are not aligned 
+        Text: Value=47nF, Ref Designator=C60, Voltage=10V, Package=0402 of $4I3861 are not aligned 
+        Text: Ref Designator=C63, Value=470nF, Package=0603, Voltage=6V3 of $4I3865 are not aligned 
+        Text: Ref Designator=C64, Package=0603, Value=470nF, Voltage=6V3 of $4I3866 are not aligned 
+        Text: Value=10nF, Package=0402, Ref Designator=C21, Voltage=16V of $4I4269 are not aligned 
+        Text: Voltage=16V, Ref Designator=C22, Package=0402, Value=10nF of $4I4312 are not aligned 
+        Text: Value=10nF, Package=0402, Ref Designator=C23, Voltage=16V of $4I4329 are not aligned 
+        Text: Value=10nF, Package=0402, Ref Designator=C24, Voltage=16V of $4I4377 are not aligned 
+        Text: Voltage=16V, Ref Designator=C25, Package=0402, Value=10nF of $4I4378 are not aligned 
+        Text: Value=10nF, Package=0402, Ref Designator=C26, Voltage=16V of $4I4380 are not aligned 
+        Text: Ref Designator=R3, Package=0402, Value=80R of $4I5067 are not aligned 
+        Text: Ref Designator=C65, Value=10nF, Voltage=16V, Package=0402 of $4I5094 are not aligned 
+        Text: Ref Designator=C91, Value=100nF, Voltage=10V, Package=0402 of $4I5101 are not aligned 
+        Text: Package=0402, Voltage=16V, Value=10nF, Ref Designator=C66 of $4I5114 are not aligned 
+        Text: Value=100nF, Package=0402, Voltage=10V, Ref Designator=C92 of $4I5124 are not aligned 
+        Text: Ref Designator=C93, Voltage=10V, Package=0402, Value=100nF of $4I5134 are not aligned 
+        Text: Value=100nF, Package=0402, Voltage=10V, Ref Designator=C94 of $4I5144 are not aligned 
+        Text: Ref Designator=C95, Voltage=10V, Package=0402, Value=100nF of $4I5154 are not aligned 
+        Text: Value=100nF, Package=0402, Voltage=10V, Ref Designator=C96 of $4I5164 are not aligned 
+        Text: Ref Designator=C97, Value=1uF, Voltage=6V3, Package=0603 of $4I5174 are not aligned 
+        Text: Ref Designator=C99, Package=0805, Value=2U2, Voltage=6V3 of $4I5181 are not aligned 
+        Text: Package=0603, Voltage=6V3, Value=1uF, Ref Designator=C98 of $4I5194 are not aligned 
+        Text: Voltage=6V3, Value=2U2, Package=0805, Ref Designator=C100 of $4I5204 are not aligned 
+
+    Text owner
+        No issues found
+
+
+Total issue count: 123

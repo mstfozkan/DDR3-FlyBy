@@ -1,0 +1,38 @@
+Sun Oct 19 22:38:24 2014
+
+Project path: C:\Xpedition_EEVX_Library\Templates\Layout\VX Template_4Layer_Formatted\keyin.icdb
+
+Env. WDIR: D:\MentorGraphics\EEVX.1;D:\MentorGraphics\EEVX.1\SDD_HOME\standard;
+WDIRs: 
+	D:\MentorGraphics\EEVX.1
+	D:\MentorGraphics\EEVX.1\SDD_HOME\standard
+
+Loaded cns files: 
+	D:\MentorGraphics\EEVX.1\user.cns=43be-c60e-1815-0bc7-a417-444f-4174-4450-1b80-fe0b-aa2b-59ca
+	D:\MentorGraphics\EEVX.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+
+Loaded cns - data stored in database: D:\MentorGraphics\EEVX.1\user.cns=43be-c60e-1815-0bc7-a417-444f-4174-4450-1b80-fe0b-aa2b-59ca;D:\MentorGraphics\EEVX.1\SDD_HOME\standard\ce_ee.cns=7.10.35
+Before global upgrade from version: 7.10.35 to version: 7.10.35
+
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 30ms, 0s
+
+Upgrade snapshot template_layout_temp
+UpgradeSnapshot took 10ms, 0s
+
+Upgrade snapshot template
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 10ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "DSN_MAXENETS" default value set to: 5.
+Set database cns file versions: ce_ee.cns=7.10.35;user.cns=43be-c60e-1815-0bc7-a417-444f-4174-4450-1b80-fe0b-aa2b-59ca
+AfterGlobalUpgrade took 0ms, 0s
+

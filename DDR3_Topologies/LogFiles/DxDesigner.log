@@ -1,0 +1,113 @@
+Output> On sheet: Schematic1.1 - No border symbol defined for sheet size A3 Landscape.
+Output> On sheet: Schematic1.1 - No border symbol defined for sheet size A3 Landscape.
+Output> On sheet: Schematic1.2 - No border symbol defined for sheet size B Landscape.
+Output> On sheet: Schematic1.2 - No border symbol defined for sheet size B Landscape.
+Output> On sheet: Schematic1.2 - No border symbol defined for sheet size B Landscape.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [78.2 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2019-12-29 19.02.56 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [120.8 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2019-12-31 00.12.30 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: Got a message: WM_ENDSESSION<!#!><severity>3</severity>
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [143.0 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-01 02.08.29 - symUpd.zip]
+Properties> Illegal property value, the regular expression for this property value is: (\n|-|_|,)*
+Properties> Illegal property value, the regular expression for this property value is: (\n|-|_|,)*
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [176.1 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-01 20.00.04 - auto.zip]
+Properties> This property is not defined in the Central Library Property Definition Editor. Please define the property before editing.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [349.4 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-02 00.00.04 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [359.4 kB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-02 20.18.57 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [1.8 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-03 00.18.57 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [1.9 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-03 23.19.10 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [1.9 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-03 23.46.27 - symUpd.zip]
+ICDB server [info]: [AutoSave] backup of size [4.0 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-05 22.02.42 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [4.0 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-06 18.54.09 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [4.1 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-07 04.01.53 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [4.1 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-12 16.33.26 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [4.1 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-12 20.33.26 - auto.zip]
+Part Replace> 1 part(s) found
+Part Replace> 20 part(s) found
+Part Replace> Replacement part has been found in Library.
+Part Replace> Replacement part has been found in Library.
+Part Replace> Replacement part has not been found
+Part Replace> Replacement part has been found in Library.
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.3 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.24.17 - user.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [4.3 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.29.51 - symUpd.zip]
+Part Replace> Selected part cannot be found in library.
+Part Replace> Replacement part has not been found
+Part Replace> Replacement part has been found in Library.
+Part Replace> Selected part cannot be found in library.
+Part Replace> Selected part cannot be found in library.
+Part Replace> Replacement part has been found in Library.
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.<!#!><severity>2</severity>
+<p>Backup 2020-01-15 00:33:03 of schematic T-Branch.02 - CPU-1 created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230380446679042][4971974018681798660][21:29:51_1-14-20][1579037583];1579037583)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.<!#!><severity>2</severity>
+<p>Backup 2020-01-15 00:33:23 of schematic T-Branch.02 - CPU-1 created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230380446679042][4971974018681798660][21:29:51_1-14-20][1579037603];1579037603)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p><!#!><raw_html>RAW_HTML</raw_html><scroll>SCROLL_END</scroll>
+Part Replace> No parts found in current scope.
+Part Replace> Selected part cannot be found in library.
+Part Replace> Replacement part has been found in Library.
+Part Replace> 1 part(s) found. 1 part(s) not in current scope.
+Part Replace> Replacement part has been found in Library.
+Part Replace> 1 part(s) found. 1 part(s) not in current scope.
+Part Replace> Replacement part has been found in Library.
+Part Replace> 1 part(s) found. 1 part(s) not in current scope.
+Part Replace> Replacement part has been found in Library.
+Part Replace> 1 part(s) found
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.36.17 - user.zip]
+Part Replace> 1 part(s) found
+Part Replace> Replacement part has been found in Library.
+Part Replace> 20 part(s) found
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.39.07 - user.zip]
+Part Replace> 1 part(s) found
+Part Replace> Replacement part has been found in Library.
+Part Replace> 3 part(s) found
+Part Replace> Replacement part has been found in Library.
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.53.45 - user.zip]
+Part Replace> 1 part(s) found
+Part Replace> Replacement part has been found in Library.
+Part Replace> 3 part(s) found
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.58.49 - user.zip]
+Part Replace> 1 part(s) found
+Part Replace> Replacement part has been found in Library.
+Part Replace> 3 part(s) found
+Part Replace> 3 part(s) found
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : mstfo] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 00.59.45 - user.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [4.4 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 01.00.12 - symUpd.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [4.3 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-15 01.05.56 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [4.5 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-16 01.12.13 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: Got a message: WM_ENDSESSION<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [4.6 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-19 01.16.52 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: Got a message: WM_ENDSESSION<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [5.1 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-21 05.17.31 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [5.1 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-01-22 23.42.19 - auto.zip]
+Properties> Illegal property value, the regular expression for this property value is: (\n|-|_|,)*
+Properties> Illegal property value, the regular expression for this property value is: (\n|-|_|,)*
+Selected objects contain constraints that will not be copied
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [5.5 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-02-09 13.29.07 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [5.6 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-02-09 17.29.07 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [5.6 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-02-09 21.29.07 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [5.8 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-02-16 21.10.38 - auto.zip]
+ICDB server [info]: Starting [DxDiagnostics] backup process
+ICDB server [info]: [xDX Diagnostics] backup of size [5.7 MB] created successfully in location [C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\ProjectBackup\backups\2020-07-20 22.21.02 - DxDiag.zip]

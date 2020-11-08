@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: T-Branch_layout_temp
+Top level block: (2-1-5)
+Parameters: FAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CMH2NC,(12-1-22)]
+[Ok][Modification] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,PLCOUT2BRDEDGE,(12-2-22)]
+[Ok][Modification] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,PLCOUT2PLCOB,(12-3-22)]
+[Ok][Modification] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,PLCOUT2PLCOUT,(12-4-22)]
+[Ok][Addition] - [FE->BE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_IBIS_MAP_NAME,(141-1-22)]
+[Ok][Addition] - [FE->BE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_MAXENETS,(141-2-22)]
+[Ok][Addition] - [FE->BE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_BIGNETPINCOUNT,(141-3-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CE2PARTS,(141-4-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CE2NONPLANECONDUCTOR,(141-5-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CE2PLANECONDUCTOR,(141-6-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CE2CE,(141-7-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,CMH2MH,(141-8-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,TRACE2RESISTOR,(141-9-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,PAD2RESISTOR,(141-10-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,ADHCC,(141-11-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,ALHCC,(141-12-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,APUHCC,(141-13-22)]
+[Ok][Addition] - [FE->BE] [P: CesGenClear,CesGenClear,(2-1-28)] [O: CesConstraint,APHHCC,(141-14-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2020-01-06 19:49:10) 
+--------------------------------------------------------------------------------

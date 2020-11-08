@@ -1,0 +1,13 @@
+Line :5
+Error parsing layer stackup settings file, "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Line :5
+Error parsing layer stackup settings file, "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Line :5
+Error parsing layer stackup settings file, "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Line :5
+Error parsing layer stackup settings file, "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Expected .include_master argument.Line :5
+Error parsing layer stackup settings file, "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp".
+Expected .fontname argument.Expected .fontsize argument.Expected .penwidth argument.Expected .include_master argument.Expected .multiple_user_layers argument.
+Error, There were 5 Drill Preference errors detected
+  in file "C:\Users\mstfo\Documents\GitHub\DDR3-Topologies\DDR3_Topologies\PCB\Config\LayerStackupSettings.hkp"
