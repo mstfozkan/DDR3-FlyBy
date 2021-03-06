@@ -1,5 +1,5 @@
-# DDR3-Topologies
-Purpose of that repo routing and simulating of DDR3 topologies.
+# DDR3-FlyBy
+Purpose of that repo routing and simulating of DDR3 Fly-By.
 Im not experienced person about those topics but improved myself about it. 
 
 DDR3 & FPGA demo with Xpedition.
